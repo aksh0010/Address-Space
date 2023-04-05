@@ -17,3 +17,5 @@ This program outputs
   8) The total number of pages in a page table (type 2 only)
   9) The total number of bits in an address for the page directory index (type 2 only)
  10) The total number of bits in an address for the page table index (type 2 only)
+
+![image](https://user-images.githubusercontent.com/68304244/229975741-60aa836b-b931-4eee-989e-f52102c79c46.png)
